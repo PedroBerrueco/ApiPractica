@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ApiPractica</string>
+    <string name="hint_user">username</string>
+    <string name="btn_user">Continue</string>
+</resources>
